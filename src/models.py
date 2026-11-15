@@ -10,3 +10,4 @@ class Patient:
     def get_info(self):
         return f"Пациент: {self.name}, Возраст: {self.age}, Диагноз: {self.diagnosis}"
 # Связь с задачей Redmine #1
+
